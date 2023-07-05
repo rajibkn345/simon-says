@@ -118,13 +118,13 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
   return newRequire;
 })({"assets/simon-says-sound-1.mp3":[function(require,module,exports) {
-module.exports = "/simon-says-sound-1.c3617230.mp3";
+module.exports = "./simon-says-sound-1.c3617230.mp3";
 },{}],"assets/simon-says-sound-2.mp3":[function(require,module,exports) {
-module.exports = "/simon-says-sound-2.e2028ed3.mp3";
+module.exports = "./simon-says-sound-2.e2028ed3.mp3";
 },{}],"assets/simon-says-sound-3.mp3":[function(require,module,exports) {
-module.exports = "/simon-says-sound-3.dcafd85c.mp3";
+module.exports = "./simon-says-sound-3.dcafd85c.mp3";
 },{}],"assets/simon-says-sound-4.mp3":[function(require,module,exports) {
-module.exports = "/simon-says-sound-4.a077541a.mp3";
+module.exports = "./simon-says-sound-4.a077541a.mp3";
 },{}],"src/index.js":[function(require,module,exports) {
 "use strict";
 
